@@ -1,0 +1,8 @@
+---
+title: go
+date: 2024-06-30 21:00:00 +/-TTTT
+categories: [go, go基础]
+tags: [go]     # TAG names should always be lowercase
+---
+go 
+pkage main  
